@@ -5,5 +5,12 @@
 		"runs": "-",
 		"wickets": "-",
 		"overs": "-"
+	},
+	{
+		"bat_team": "bat",
+		"bowl_team": "bowl",
+		"runs": "-",
+		"wickets": "-",
+		"overs": "-"
 	}
 ]
