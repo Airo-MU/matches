@@ -1,14 +1,14 @@
 [
 	{
-		"bat_team": "bat",
-		"bowl_team": "bowl",
+		"bat_team": "t1",
+		"bowl_team": "t2",
 		"runs": "-",
 		"wickets": "-",
 		"overs": "-"
 	},
 	{
-		"bat_team": "bat",
-		"bowl_team": "bowl",
+		"bat_team": "t3",
+		"bowl_team": "t4",
 		"runs": "-",
 		"wickets": "-",
 		"overs": "-"
