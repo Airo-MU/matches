@@ -2,15 +2,17 @@
 	{
 		"bat_team": "t1",
 		"bowl_team": "t2",
-		"runs": "-",
-		"wickets": "-",
+		"t1_score": "-/-",
+		"t2_score": "-/-",
+		"running_score": "-/-",
 		"overs": "-"
 	},
 	{
 		"bat_team": "t3",
 		"bowl_team": "t4",
-		"runs": "-",
-		"wickets": "-",
+		"t1_score": "-/-",
+		"t2_score": "-/-",
+		"running_score": "-/-",
 		"overs": "-"
 	}
 ]
