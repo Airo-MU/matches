@@ -1,10 +1,10 @@
 [
 	{
 		"team": "t1",
-		"n_run_rate": "-"
+		"NRR": "-"
 	},
 	{
 		"team": "t2",
-		"n_run_rate": "-"
+		"NRR": "-"
 	}
 ]
