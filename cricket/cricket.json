@@ -1,19 +1,19 @@
 [
 	{
-		"bat_team": "CBIT",
-		"bowl_team": "IARE-A",
+		"bat_team": "IARE-A",
+		"bowl_team": "CBIT",
 		"t1_score": "173/7",
-		"t2_score": "-/-",
-		"running_score": "173/7",
+		"t2_score": "84/5",
+		"running_score": "84/5",
 		"overs": "16"
 	},
 	
 	{
-		"bat_team": "t1",
-		"bowl_team": "t2",
-		"t1_score": "-/-",
-		"t2_score": "-/-",
-		"running_score": "-/-",
-		"overs": "-"
+		"bat_team": "MU-B",
+		"bowl_team": "NGIT",
+		"t1_score": "0/0",
+		"t2_score": "Yet to Bat",
+		"running_score": "0/0",
+		"overs": "0"
 	}
 ]
