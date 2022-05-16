@@ -1,19 +1,26 @@
 [
 	{
-		"bat_team": "IARE-A",
-		"bowl_team": "CBIT",
-		"t1_score": "173/7",
-		"t2_score": "84/5",
-		"running_score": "84/5",
-		"overs": "10"
+		"bat_team": "KPRIT-A",
+		"bowl_team": "Vignan",
+		"t1_score": "31/1",
+		"t2_score": "Yet to Bat",
+		"running_score": "31/1",
+		"overs": "4"
 	},
-	
 	{
 		"bat_team": "MU-B",
 		"bowl_team": "NGIT",
-		"t1_score": "57/4",
+		"t1_score": "81/6",
 		"t2_score": "Yet to Bat",
-		"running_score": "57/4",
-		"overs": "9"
+		"running_score": "81/6",
+		"overs": "14"
+	},
+	{
+		"bat_team": "IARE-A",
+		"bowl_team": "CBIT",
+		"t1_score": "173/7",
+		"t2_score": "131/8",
+		"running_score": "131/8",
+		"overs": "15"
 	}
 ]
