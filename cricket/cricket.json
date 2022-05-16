@@ -1,18 +1,10 @@
 [
 	{
-		"bat_team": "t1",
-		"bowl_team": "t2",
-		"t1_score": "-/-",
-		"t2_score": "-/-",
-		"running_score": "-/-",
-		"overs": "-"
-	},
-	{
-		"bat_team": "t3",
-		"bowl_team": "t4",
-		"t1_score": "-/-",
-		"t2_score": "-/-",
-		"running_score": "-/-",
-		"overs": "-"
+		"bat_team": "CBIT",
+		"bowl_team": "IARE-A",
+		"t1_score": "123/1",
+		"t2_score": "Yet to bat",
+		"running_score": "123/1",
+		"overs": "11"
 	}
 ]
