@@ -1,5 +1,25 @@
 [
 	{
+		"team_1": "Gitam",
+		"team_2": "MU-B",
+		"running_score": "35:45"
+	},	
+	{
+		"team_1": "CBIT",
+		"team_2": "MU-A",
+		"running_score": "21:44"
+	},	
+	{
+		"team_1": "MLRIT(Girls)",
+		"team_2": "VNR(Girls)",
+		"running_score": "21:18"
+	},
+	{
+		"team_1": "VNR(Girls)",
+		"team_2": "MU(Girls)",
+		"running_score": "23:09"
+	},	
+	{
 		"team_1": "MGIT",
 		"team_2": "Vasavi",
 		"running_score": "38:26"
