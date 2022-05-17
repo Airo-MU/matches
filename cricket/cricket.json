@@ -1,5 +1,22 @@
 [
-	
+	{
+		"bat_team": "Cmrtc",
+		"bowl_team": "CBIT",
+		"t1_score": "127/10",
+		"t2_score": "-",
+		"running_score": "-",
+		"overs": "15",
+		"winner": "Winner TBD"
+	},
+	{
+		"bat_team": "AVN",
+		"bowl_team": "MU-A",
+		"t1_score": "126/8",
+		"t2_score": "27/2",
+		"running_score": "27/2",
+		"overs": "15",
+		"winner": "Winner TBD"
+	},
 	{
 		"bat_team": "GRIET",
 		"bowl_team": "VJIT",
