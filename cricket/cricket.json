@@ -1,5 +1,23 @@
 [
 	{
+		"bat_team": "KPRIT-A",
+		"bowl_team": "ICFAI",
+		"t1_score": "72/4",
+		"t2_score": "-",
+		"running_score": "72/4",
+		"overs": "9",
+		"winner": "Winner TBD"
+	},
+	{
+		"bat_team": "CVR",
+		"bowl_team": "Shreyas",
+		"t1_score": "164/5",
+		"t2_score": "-",
+		"running_score": "164/5",
+		"overs": "10",
+		"winner": "Winner TBD"
+	},
+	{
 		"bat_team": "Cmrtc",
 		"bowl_team": "CBIT",
 		"t1_score": "127/10",
