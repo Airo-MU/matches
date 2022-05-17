@@ -1,92 +1,106 @@
 [
 	{
-		"Team": "MU-A",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "MU-B",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "AVN",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "NGIT",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "JBREC",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "KPRIT-A",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "KPRIT-B",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "ICFAI",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "VJIT",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "VBIT",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "GRIET",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "VIGNAN",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "MLRIT-M",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "CVR",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "SREYAS",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "CMRTC",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "CBIT",
-		"NRR": "-",
-		"Points": "-"
-	},
-	{
-		"Team": "IARE",
-		"NRR": "-",
-		"Points": "-"
+		"Group A": {
+			"0": {
+				"Team": "MU-A",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "AVN",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "JBREC",
+				"NRR": "-",
+				"Points": "-"
+			}
+		},
+		"Group B": {
+			"0": {
+				"Team": "MU-B",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "NGIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "KPRIT-B",
+				"NRR": "-",
+				"Points": "-"
+			}
+		},
+		"Group C": {
+			"0": {
+				"Team": "KPRIT-A",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "ICFAI",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "VIGNAN",
+				"NRR": "-",
+				"Points": "-"
+			}
+		},
+		"Group D": {
+			"0": {
+				"Team": "VBIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "VJIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "GRIET",
+				"NRR": "-",
+				"Points": "-"
+			}
+		},
+		"Group E": {
+			"0": {
+				"Team": "MLRIT-M",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "CVR",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "SREYAS",
+				"NRR": "-",
+				"Points": "-"
+			}
+		},
+		"Group F": {
+			"0": {
+				"Team": "CMCRTC",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "CBIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "IARE",
+				"NRR": "-",
+				"Points": "-"
+			}
+		}
 	}
 ]

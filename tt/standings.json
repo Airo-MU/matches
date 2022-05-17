@@ -1,10 +1,18 @@
 [
 	{
-		"Team": "t1",
-		"Points": "-"
-	},
-	{
-		"Team": "t2",
-		"Points": "-"
+		"Group A": {
+			"0": {
+				"Team": "t1",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "t2",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "t3",
+				"Points": "-"
+			}
+		}
 	}
 ]

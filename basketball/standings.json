@@ -1,10 +1,46 @@
 [
 	{
-		"Team": "t1",
-		"Points": "-"
-	},
-	{
-		"Team": "t2",
-		"Points": "-"
+		"Group A": {
+			"0": {
+				"Team": "t1",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "t2",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "t3",
+				"Points": "-"
+			}
+		},
+		"Group B": {
+			"0": {
+				"Team": "t4",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "t5",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "t6",
+				"Points": "-"
+			}
+		},
+		"Girls": {
+			"0": {
+				"Team": "tg1",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "tg2",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "tg3",
+				"Points": "-"
+			}
+		}
 	}
 ]
