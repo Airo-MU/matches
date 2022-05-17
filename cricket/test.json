@@ -1,34 +1,106 @@
 [
 	{
 		"Group A": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "MU-A",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "AVN",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "JBREC",
+				"NRR": "-",
+				"Points": "-"
+			}
 		},
 		"Group B": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "MU-B",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "NGIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "KPRIT-B",
+				"NRR": "-",
+				"Points": "-"
+			}
 		},
 		"Group C": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "KPRIT-A",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "ICFAI",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "VIGNAN",
+				"NRR": "-",
+				"Points": "-"
+			}
 		},
 		"Group D": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "VBIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "VJIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "GRIET",
+				"NRR": "-",
+				"Points": "-"
+			}
 		},
 		"Group E": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "MLRIT-M",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "CVR",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "SREYAS",
+				"NRR": "-",
+				"Points": "-"
+			}
 		},
 		"Group F": {
-			"Team": "--",
-			"NRR": "-",
-			"Points": "-"
+			"0": {
+				"Team": "CMCRTC",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "CBIT",
+				"NRR": "-",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "IARE",
+				"NRR": "-",
+				"Points": "-"
+			}
 		}
 	}
 ]
