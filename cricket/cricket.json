@@ -6,7 +6,8 @@
 		"t1_score": "102/7",
 		"t2_score": "105/8",
 		"running_score": "105/8",
-		"overs": "15"
+		"overs": "15",
+		"winner": "Winner TBD"
 	},
 	{
 		"bat_team": "NGIT",
@@ -14,7 +15,8 @@
 		"t1_score": "137/10",
 		"t2_score": "71/10",
 		"running_score": "71/10",
-		"overs": "15"
+		"overs": "15",
+		"winner": "Winner TBD"
 	},
 	{
 		"bat_team": "KPRIT-A",
