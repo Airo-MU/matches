@@ -2,29 +2,29 @@
 	{
 		"bat_team": "KPRIT-A",
 		"bowl_team": "ICFAI",
-		"t1_score": "72/4",
-		"t2_score": "-",
-		"running_score": "72/4",
-		"overs": "9",
-		"winner": "Winner TBD"
+		"t1_score": "137/9",
+		"t2_score": "95/10",
+		"running_score": "95/10",
+		"overs": "16",
+		"winner": "KPRIT-A"
 	},
 	{
 		"bat_team": "CVR",
 		"bowl_team": "Shreyas",
-		"t1_score": "164/5",
-		"t2_score": "-",
-		"running_score": "164/5",
-		"overs": "10",
-		"winner": "Winner TBD"
+		"t1_score": "205/7",
+		"t2_score": "85/10",
+		"running_score": "85/10",
+		"overs": "16",
+		"winner": "CVR"
 	},
 	{
-		"bat_team": "Cmrtc",
+		"bat_team": "CMRTC",
 		"bowl_team": "CBIT",
 		"t1_score": "127/10",
 		"t2_score": "128/3",
 		"running_score": "128/3",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "CBIT"
 	},
 	{
 		"bat_team": "AVN",
@@ -32,8 +32,8 @@
 		"t1_score": "126/8",
 		"t2_score": "128/7",
 		"running_score": "128/7",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "MU-A"
 	},
 	{
 		"bat_team": "GRIET",
@@ -41,8 +41,8 @@
 		"t1_score": "102/7",
 		"t2_score": "105/8",
 		"running_score": "105/8",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "VJIT"
 	},
 	{
 		"bat_team": "NGIT",
@@ -50,8 +50,8 @@
 		"t1_score": "137/10",
 		"t2_score": "71/10",
 		"running_score": "71/10",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "NGIT"
 	},
 	{
 		"bat_team": "KPRIT-A",
@@ -59,8 +59,8 @@
 		"t1_score": "183/8",
 		"t2_score": "148/7",
 		"running_score": "148/7",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "KPRIT-A"
 	},
 	{
 		"bat_team": "MU-B",
@@ -68,8 +68,8 @@
 		"t1_score": "96/9",
 		"t2_score": "95/8",
 		"running_score": "95/8",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "MU-B"
 	},
 	{
 		"bat_team": "IARE-A",
@@ -77,7 +77,7 @@
 		"t1_score": "131/8",
 		"t2_score": "173/7",
 		"running_score": "173/7",
-		"overs": "15",
-		"winner": "Winner TBD"
+		"overs": "16",
+		"winner": "CBIT"
 	}
 ]
