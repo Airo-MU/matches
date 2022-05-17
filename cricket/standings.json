@@ -3,103 +3,99 @@
 		"Group A": {
 			"0": {
 				"Team": "MU-A",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "1.055",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "AVN",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "JBREC",
+				"NRR": "0",
+				"Points": "0"
 			},
 			"2": {
-				"Team": "JBREC",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "AVN",
+				"NRR": "-1.055",
+				"Points": "0"
 			}
+			
 		},
 		"Group B": {
 			"0": {
-				"Team": "MU-B",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "NGIT",
+				"NRR": "2.031",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "NGIT",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "MU-B",
+				"NRR": "0.063",
+				"Points": "2"
 			},
 			"2": {
 				"Team": "KPRIT-B",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "-4.125",
+				"Points": "0"
 			}
 		},
 		"Group C": {
 			"0": {
 				"Team": "KPRIT-A",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "2.406",
+				"Points": "4"
 			},
 			"1": {
-				"Team": "ICFAI",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "VIGNAN",
+				"NRR": "-2.188",
+				"Points": "0"
 			},
 			"2": {
-				"Team": "VIGNAN",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "ICFAI",
+				"NRR": "-2.625",
+				"Points": "0"
 			}
 		},
 		"Group D": {
 			"0": {
-				"Team": "VBIT",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "VJIT-A",
+				"NRR": "1.215",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "VJIT",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "VBIT",
+				"NRR": "0",
+				"Points": "0"
 			},
 			"2": {
 				"Team": "GRIET",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "-1.215",
+				"Points": "0"
 			}
 		},
 		"Group E": {
 			"0": {
-				"Team": "MLRIT-M",
-				"NRR": "-",
-				"Points": "-"
+				"Team": "CVR",
+				"NRR": "7.5",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "CVR",
-				"NRR": "-",
-				"Points": "-"
-			},
-			"2": {
 				"Team": "SREYAS",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "-7.5",
+				"Points": "0"
 			}
 		},
 		"Group F": {
 			"0": {
-				"Team": "CMCRTC",
-				"NRR": "-",
-				"Points": "-"
-			},
-			"1": {
 				"Team": "CBIT",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "2.317",
+				"Points": "4"
+			},	
+			"1": {
+				"Team": "CMCRTC",
+				"NRR": "-1.909",
+				"Points": "0"
 			},
 			"2": {
 				"Team": "IARE",
-				"NRR": "-",
-				"Points": "-"
+				"NRR": "-2.625",
+				"Points": "0"
 			}
 		}
 	}
