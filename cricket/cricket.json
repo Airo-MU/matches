@@ -1,5 +1,23 @@
 [
 	{
+		"bat_team": "JBREC",
+		"bowl_team": "MU-A",
+		"t1_score": "153/9",
+		"t2_score": "52/0",
+		"running_score": "52/0",
+		"overs": "4",
+		"winner": "TBD"
+	},
+	{
+		"bat_team": "VBIT",
+		"bowl_team": "VJIT",
+		"t1_score": "109/7",
+		"t2_score": "63/3",
+		"running_score": "63/3",
+		"overs": "8",
+		"winner": "TBD"
+	},
+	{
 		"bat_team": "ICFAI",
 		"bowl_team": "Vignan",
 		"t1_score": "42/4",
@@ -12,10 +30,10 @@
 		"bat_team": "CMRTC",
 		"bowl_team": "IARE",
 		"t1_score": "158/10",
-		"t2_score": "49/4",
-		"running_score": "49/4",
-		"overs": "8",
-		"winner": "TBD"
+		"t2_score": "115/7",
+		"running_score": "115/7",
+		"overs": "15",
+		"winner": "CMRTC"
 	},
 	{
 		"bat_team": "KPRIT-A",
