@@ -25,20 +25,35 @@
 		"running_score": "Arjun"
 	},
         {
-		"team_1": "Pathu",
+		"team_1": "Pratyusha",
 		"team_2": "Janvi",
-		"running_score": ""
+		"running_score": "Pratyusha"
 	},
         {
 		"team_1": "Ridhima",
-		"team_2": "Shreya",
-		"running_score": ""
+		"team_2": "Mahi",
+		"running_score": "Mahi"
 	},
         
        {
 		"team_1": "Vansh",
 		"team_2": "Om",
-		"running_score": ""
+		"running_score": "Om"
+	},
+        {
+		"team_1": "Satwik",
+		"team_2": "Sidhant",
+		"running_score": "Sidhant"
+	},
+        {
+		"team_1": "Sampreeth",
+		"team_2": "Anil Kumar",
+		"running_score": "Sampreeth"
+	},
+        {
+		"team_1": "Ronit",
+		"team_2": "Abour",
+		"running_score": "Ronit"
 	}
-
+   
 ]
