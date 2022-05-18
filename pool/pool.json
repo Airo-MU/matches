@@ -9,4 +9,31 @@
 		"team_2": "Syed",
 		"running_score": "Yuvraj"
 	}
+        {
+		"team_1": "Sudheer",
+		"team_2": "Vivek",
+		"running_score": "Sudheer"
+	}
+        {
+		"team_1": "Arjun",
+		"team_2": "Bhargav",
+		"running_score": "Arjun"
+	}
+        {
+		"team_1": "Pathu",
+		"team_2": "Janvi",
+		"running_score": ""
+	}
+        {
+		"team_1": "Ridhima",
+		"team_2": "Shreya",
+		"running_score": ""
+	}
+        
+       {
+		"team_1": "Vansh",
+		"team_2": "Om",
+		"running_score": ""
+	}
+
 ]
