@@ -1,12 +1,33 @@
 [
 	{
-		"team_1": "t1",
-		"team_2": "t2",
-		"running_score": "-:-"
+		"team_1": "IARE(men's singles)",
+		"team_2": "IIIT(men's singles)",
+		"running_score": "21:12: 8:21"
+	},
+        {
+		"team_1": "IARE(men's doubles)",
+		"team_2": "IIIT(men's doubles)",
+		"running_score": "21:19,15:21"
+	},
+        {
+		"team_1": "MU-B(men's singles)",
+		"team_2": "GRIET(men's singles)",
+		"running_score": "21:10, 21:11"
+	},
+        {
+		"team_1": "MU-B(men's doubles)",
+		"team_2": "GRIET(men's doubles)",
+		"running_score": "21:12,21:11"
+	},
+
+        {
+		"team_1": "MU-A(men's singles)",
+		"team_2": "AU(men's singles)",
+		"running_score": "21:9, 21:7"
 	},
 	{
-		"team_1": "t1",
-		"team_2": "t2",
-		"running_score": "-:-"
+		"team_1": "MU-A(men's doubles)",
+		"team_2": "AU(men's doubles)",
+		"running_score": "21:9,21:12"
 	}
 ]
