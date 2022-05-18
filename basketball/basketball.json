@@ -1,5 +1,30 @@
 [
 	{
+		"team_1": "MU-A",
+		"team_2": "MGIT",
+		"running_score": "46 | 23"
+	},
+	{
+		"team_1": "MU-B",
+		"team_2": "BITS",
+		"running_score": "38 | 39"
+	},
+	{
+		"team_1": "BITS",
+		"team_2": "GITAM",
+		"running_score": "52 | 23"
+	},
+	{
+		"team_1": "BITS",
+		"team_2": "SNIST",
+		"running_score": "51 | 38"
+	},
+	{
+		"team_1": "MU(girls)",
+		"team_2": "MLRIT(girls)",
+		"running_score": "6 | 12"
+	},
+	{
 		"team_1": "Vasavi",
 		"team_2": "CVR",
 		"running_score": "24 | 14"
