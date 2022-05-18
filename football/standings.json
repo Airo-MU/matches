@@ -2,15 +2,73 @@
 	{
 		"Group A": {
 			"0": {
-				"Team": "t1",
+				"Team": "Gitam",
+				"Points": "1"
+			},
+			"1": {
+				"Team": "VNR",
+				"Points": "0"
+			},
+			"2": {
+				"Team": "IARE",
+				"Points": "-"
+			}
+
+			"3": {
+				"Team": "MGIT",
+				"Points": "-"
+			}
+		}
+	}
+		{
+		"Group B": {
+			"0": {
+				"Team": "MJCET",
 				"Points": "-"
 			},
 			"1": {
-				"Team": "t2",
+				"Team": "ST. Martin's",
 				"Points": "-"
 			},
 			"2": {
-				"Team": "t3",
+				"Team": "MRCET",
+				"Points": "-"
+			}
+
+			"3": {
+				"Team": "ISLEC",
+				"Points": "-"
+			}
+		}
+	}
+	{
+		"Group C": {
+			"0": {
+				"Team": "MU - A",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "MVSR",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "CBIT",
+				"Points": "-"
+			}
+		}
+	}
+	{
+		"Group D": {
+			"0": {
+				"Team": "MU - B",
+				"Points": "-"
+			},
+			"1": {
+				"Team": "CMRTC",
+				"Points": "-"
+			},
+			"2": {
+				"Team": "SNIST",
 				"Points": "-"
 			}
 		}
