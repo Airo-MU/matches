@@ -3,19 +3,19 @@
 		"bat_team": "JBREC",
 		"bowl_team": "MU-A",
 		"t1_score": "153/9",
-		"t2_score": "52/0",
-		"running_score": "52/0",
+		"t2_score": "156/2",
+		"running_score": "156/2",
 		"overs": "4",
-		"winner": "TBD"
+		"winner": "MU-A"
 	},
 	{
 		"bat_team": "VBIT",
 		"bowl_team": "VJIT",
 		"t1_score": "109/7",
-		"t2_score": "63/3",
-		"running_score": "63/3",
+		"t2_score": "111/7",
+		"running_score": "111/7",
 		"overs": "8",
-		"winner": "TBD"
+		"winner": "VJIT"
 	},
 	{
 		"bat_team": "ICFAI",
