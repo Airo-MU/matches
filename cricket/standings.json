@@ -3,12 +3,12 @@
 		"Group A": {
 			"0": {
 				"Team": "MU-A",
-				"NRR": "1.055",
-				"Points": "2"
+				"NRR": "1.424",
+				"Points": "4"
 			},
 			"1": {
 				"Team": "JBREC",
-				"NRR": "0",
+				"NRR": "-1.852",
 				"Points": "0"
 			},
 			"2": {
@@ -26,12 +26,12 @@
 			},
 			"1": {
 				"Team": "MU-B",
-				"NRR": "0.063",
-				"Points": "2"
+				"NRR": "2.195",
+				"Points": "4"
 			},
 			"2": {
 				"Team": "KPRIT-B",
-				"NRR": "-4.125",
+				"NRR": "-4.678",
 				"Points": "0"
 			}
 		},
@@ -55,12 +55,12 @@
 		"Group D": {
 			"0": {
 				"Team": "VJIT-A",
-				"NRR": "1.215",
-				"Points": "2"
+				"NRR": "0.941",
+				"Points": "4"
 			},
 			"1": {
 				"Team": "VBIT",
-				"NRR": "0",
+				"NRR": "-0.671",
 				"Points": "0"
 			},
 			"2": {
@@ -72,13 +72,18 @@
 		"Group E": {
 			"0": {
 				"Team": "CVR",
-				"NRR": "7.5",
+				"NRR": "2.786",
 				"Points": "2"
 			},
 			"1": {
 				"Team": "SREYAS",
-				"NRR": "-7.5",
+				"NRR": "-7.500",
 				"Points": "0"
+			},
+			"2":{
+				"Team": "MLRIT",
+				"NRR": "2.827",
+				"Points": "2"
 			}
 		},
 		"Group F": {
@@ -89,12 +94,12 @@
 			},	
 			"1": {
 				"Team": "CMCRTC",
-				"NRR": "-1.909",
-				"Points": "0"
+				"NRR": "0.515",
+				"Points": "2"
 			},
 			"2": {
 				"Team": "IARE",
-				"NRR": "-2.625",
+				"NRR": "-2.742",
 				"Points": "0"
 			}
 		}
