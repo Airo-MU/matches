@@ -1,5 +1,23 @@
 [
 	{
+		"bat_team": "KPRIT-B",
+		"bowl_team": "MU-B",
+		"t1_score": "58/1",
+		"t2_score": "-",
+		"running_score": "58/1",
+		"overs": "7",
+		"winner": "TBD"
+	},
+	{
+		"bat_team": "CVR",
+		"bowl_team": "MLRIT",
+		"t1_score": "107/2",
+		"t2_score": "-",
+		"running_score": "107/2",
+		"overs": "9",
+		"winner": "TBD"
+	},
+	{
 		"bat_team": "JBREC",
 		"bowl_team": "MU-A",
 		"t1_score": "153/9",
