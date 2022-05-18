@@ -1,5 +1,50 @@
 [
 	{
+		"team_1": "MU-B",
+		"team_2": "Vnr",
+		"running_score": "14 | 37"
+	},
+	{
+		"team_1": "CVR",
+		"team_2": "MGIT",
+		"running_score": "26 | 27"
+	},
+	{
+		"team_1": "MU(girls)",
+		"team_2": "MLRIT",
+		"running_score": "9 | 27"
+	},
+	{
+		"team_1": "MU-A",
+		"team_2": "CVR",
+		"running_score": "40 | 15"
+	},
+	{
+		"team_1": "ICFAI",
+		"team_2": "CVR",
+		"running_score": "5 | 14"
+	},
+	{
+		"team_1": "Vnr",
+		"team_2": "SNIST",
+		"running_score": "47 | 22"
+	},
+	{
+		"team_1": "Gitam",
+		"team_2": "JBIET",
+		"running_score": "23 | 22"
+	},
+	{
+		"team_1": "MU-B",
+		"team_2": "SNIST",
+		"running_score": "37 | 32"
+	},
+	{
+		"team_1": "CVR",
+		"team_2": "CBIT",
+		"running_score": "26 | 30"
+	},
+	{
 		"team_1": "Gitam",
 		"team_2": "Vnr",
 		"running_score": "21 | 40"
