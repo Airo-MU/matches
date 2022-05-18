@@ -22,7 +22,7 @@
 		"Group B": {
 			"0": {
 				"Team": "MJCET",
-				"Points": "3"
+				"Points": "6"
 			},
 			"1": {
 				"Team": "ST. Martin's",
@@ -34,14 +34,14 @@
 			},
 			"3": {
 				"Team": "ISLEC",
-				"Points": "-"
+				"Points": "0"
 			}
 		},
 
 		"Group C": {
 			"0": {
 				"Team": "MU - A",
-				"Points": "-"
+				"Points": "3"
 			},
 			"1": {
 				"Team": "MVSR",
@@ -49,14 +49,14 @@
 			},
 			"2": {
 				"Team": "CBIT",
-				"Points": "-"
+				"Points": "0"
 			}
 		},
 
 		"Group D": {
 			"0": {
 				"Team": "MU - B",
-				"Points": "-"
+				"Points": "0"
 			},
 			"1": {
 				"Team": "CMRTC",
@@ -64,7 +64,7 @@
 			},
 			"2": {
 				"Team": "SNIST",
-				"Points": "-"
+				"Points": "3"
 			}
 		}
 	}
