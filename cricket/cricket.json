@@ -1,5 +1,23 @@
 [
 	{
+		"bat_team": "ICFAI",
+		"bowl_team": "Vignan",
+		"t1_score": "42/4",
+		"t2_score": "-",
+		"running_score": "42/4",
+		"overs": "6",
+		"winner": "TBD"
+	},
+	{
+		"bat_team": "CMRTC",
+		"bowl_team": "IARE",
+		"t1_score": "158/10",
+		"t2_score": "49/4",
+		"running_score": "49/4",
+		"overs": "8",
+		"winner": "TBD"
+	},
+	{
 		"bat_team": "KPRIT-A",
 		"bowl_team": "ICFAI",
 		"t1_score": "137/9",
