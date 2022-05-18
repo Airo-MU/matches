@@ -12,15 +12,13 @@
 			"2": {
 				"Team": "IARE",
 				"Points": "-"
-			}
-
+			},
 			"3": {
 				"Team": "MGIT",
 				"Points": "-"
 			}
-		}
-	}
-		{
+		},
+		
 		"Group B": {
 			"0": {
 				"Team": "MJCET",
@@ -33,15 +31,13 @@
 			"2": {
 				"Team": "MRCET",
 				"Points": "-"
-			}
-
+			},
 			"3": {
 				"Team": "ISLEC",
 				"Points": "-"
 			}
-		}
-	}
-	{
+		},
+
 		"Group C": {
 			"0": {
 				"Team": "MU - A",
@@ -55,9 +51,8 @@
 				"Team": "CBIT",
 				"Points": "-"
 			}
-		}
-	}
-	{
+		},
+
 		"Group D": {
 			"0": {
 				"Team": "MU - B",
