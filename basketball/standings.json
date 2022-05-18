@@ -2,11 +2,11 @@
 	{
 		"Group A": {
 			"0": {
-				"Team": "MU-A",
+				"Team": "MGIT",
 				"Points": "8"
 			},
 			"1": {
-				"Team": "MGIT",
+				"Team": "MU-A",
 				"Points": "8"
 			},
 			"2": {
@@ -14,38 +14,38 @@
 				"Points": "4"
 			},
 			"3": {
-				"Team": "ICFAI",
-				"Points": "0"
-			},
-			"4": {
 				"Team": "CBIT",
 				"Points": "2"
 			},
-			"5": {
+			"4": {
 				"Team": "CVR",
 				"Points": "2"
+			},
+			"5": {
+				"Team": "Vasavi",
+				"Points": "0"
 			}
 		},
 		"Group B": {
 			"0": {
-				"Team": "MU-B",
-				"Points": "6"
+				"Team": "BITS",
+				"Points": "8"
 			},
 			"1": {
-				"Team": "GITAM",
-				"Points": "2"
-			},
-			"2": {
 				"Team": "VNR",
 				"Points": "8"
 			},
+			"2": {
+				"Team": "MU-B",
+				"Points": "6"
+			},
 			"3": {
-				"Team": "JBIET",
-				"Points": "0"
+				"Team": "GITAM",
+				"Points": "2"
 			},
 			"4": {
-				"Team": "BITS",
-				"Points": "8"
+				"Team": "JBIET",
+				"Points": "0"
 			},
 			"5": {
 				"Team": "SNIST",
