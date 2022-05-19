@@ -55,7 +55,7 @@
 		"Group D": {
 			"0": {
 				"Team": "VJIT-A",
-				"NRR": "0.941",
+				"NRR": "0.359",
 				"Points": "4"
 			},
 			"1": {
@@ -67,6 +67,11 @@
 				"Team": "GRIET",
 				"NRR": "-1.215",
 				"Points": "0"
+			},
+			"3": {
+				"Team": "MU-C",
+				"NRR": "0.964",
+				"Points": "2"
 			}
 		},
 		"Group E": {
@@ -77,13 +82,13 @@
 			},
 			"1": {
 				"Team": "SREYAS",
-				"NRR": "-7.500",
+				"NRR": "-5.469",
 				"Points": "0"
 			},
 			"2":{
 				"Team": "MLRIT",
-				"NRR": "2.827",
-				"Points": "2"
+				"NRR": "2.982",
+				"Points": "4"
 			}
 		},
 		"Group F": {
