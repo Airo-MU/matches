@@ -1,8 +1,33 @@
 [
 	{
+		"team_1": "Imma",
+		"team_2": "Sudheer",
+		"running_score": "Imma"
+	},
+	{
+		"team_1": "Arjun",
+		"team_2": "Yuvraj",
+		"running_score": "Yuvraj"
+	},
+	{
+		"team_1": "Om",
+		"team_2": "Ronit",
+		"running_score": "Ronit"
+	},
+	{
+		"team_1": "Aruni",
+		"team_2": "Srikar",
+		"running_score": "Srikar"
+	},
+	{
 		"team_1": "Rishwant",
 		"team_2": "Srikar",
 		"running_score": "Srikar"
+	},
+	{
+		"team_1": "Dev Charan",
+		"team_2": "Sampreeth",
+		"running_score": "Dev Charan"
 	},
         {
 		"team_1": "Dev Charan",
