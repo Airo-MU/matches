@@ -1,13 +1,22 @@
 [
 	
 	{
+		"bat_team": "VJIT",
+		"bowl_team": "MU-A",
+		"t1_score": "123/10",
+		"t2_score": "15/0",
+		"running_score": "15/0",
+		"overs": "0.4",
+		"winner": "TBD"
+	},
+	{
 		"bat_team": "MLRIT",
 		"bowl_team": "Shreyas",
 		"t1_score": "163/3",
-		"t2_score": "77/3",
-		"running_score": "77/3",
-		"overs": "9",
-		"winner": "TBD"
+		"t2_score": "108/9",
+		"running_score": "108/9",
+		"overs": "15",
+		"winner": "MLRIT"
 	},
 	{
 		"bat_team": "KPRIT-B",
