@@ -1,6 +1,11 @@
 [
 	{
 		"team_1": "MU-A",
+		"team_2": "BITS",
+		"running_score": "48 | 24"
+	},
+	{
+		"team_1": "MU-A",
 		"team_2": "MGIT",
 		"running_score": "46 | 23"
 	},
