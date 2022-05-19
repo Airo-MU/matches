@@ -1,4 +1,13 @@
 [
+	{
+		"team_1": "VJIT",
+		"team_2": "VBIT",
+		"running_score": "25:20",
+		"single_score":"25:20",
+		"double_score":"-:-",
+		"tie_breaker_score":"-:-",
+		"set": "1:0"
+	},
        {
 		"team_1": "MU",
 		"team_2": "MLRIT",
