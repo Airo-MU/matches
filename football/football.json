@@ -1,5 +1,30 @@
 [
 		{
+		"team_1": "MU B",
+		"team_2": "CMRTC",
+		"running_score": "1:0"
+	},
+		{
+		"team_1": "Gitam",
+		"team_2": "IARE",
+		"running_score": "1:1"
+	},
+		{
+		"team_1": "MVSR",
+		"team_2": "CBIT",
+		"running_score": "0:1"
+	},
+		{
+		"team_1": "MJCET",
+		"team_2": "St. Martin's",
+		"running_score": "0:0"
+	},
+		{
+		"team_1": "Gitam",
+		"team_2": "MGIT",
+		"running_score": "3:0"
+	},
+		{
 		"team_1": "MU A",
 		"team_2": "CBIT",
 		"running_score": "3:0"
