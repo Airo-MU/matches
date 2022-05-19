@@ -1,13 +1,30 @@
 [
-	
+	{
+		"bat_team": "MU-B",
+		"bowl_team": "KPRIT-A",
+		"t1_score": "5/1",
+		"t2_score": "-",
+		"running_score": "5/1",
+		"overs": "1",
+		"winner": "TBD"
+	},
+	{
+		"bat_team": "CBRIT",
+		"bowl_team": "MLRIT",
+		"t1_score": "8/0",
+		"t2_score": "-",
+		"running_score": "8/0",
+		"overs": "0.3",
+		"winner": "TBD"
+	},
 	{
 		"bat_team": "VJIT",
 		"bowl_team": "MU-A",
 		"t1_score": "123/10",
-		"t2_score": "15/0",
-		"running_score": "15/0",
-		"overs": "0.4",
-		"winner": "TBD"
+		"t2_score": "124/7",
+		"running_score": "124/7",
+		"overs": "15",
+		"winner": "MU-A"
 	},
 	{
 		"bat_team": "MLRIT",
