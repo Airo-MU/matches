@@ -1,6 +1,33 @@
 [
 	{
 		"team_1": "VJIT",
+		"team_2": "MLRIT",
+		"running_score": "20:25",
+		"single_score":"16:25",
+		"double_score":"20:25",
+		"tie_breaker_score":"-:-",
+		"set": "0:2"
+	},
+	{
+		"team_1": "MU",
+		"team_2": "VBIT",
+		"running_score": "15:11",
+		"single_score":"15:12",
+		"double_score":"15:11",
+		"tie_breaker_score":"-:-",
+		"set": "2:0"
+	},
+	{
+		"team_1": "MU",
+		"team_2": "MLRIT",
+		"running_score": "25:20",
+		"single_score":"10:25",
+		"double_score":"20:25",
+		"tie_breaker_score":"-:-",
+		"set": "0:2"
+	},
+	{
+		"team_1": "VJIT",
 		"team_2": "VBIT",
 		"running_score": "25:20",
 		"single_score":"25:20",
