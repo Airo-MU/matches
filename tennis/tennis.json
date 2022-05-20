@@ -1,11 +1,20 @@
 [
 	{
+		"team_1": "BITS",
+		"team_2": "MU-B",
+		"running_score": "8:0",
+		"single_score":"8:0",
+		"double_score":"8:1",
+		"tie_breaker_score":"-:-",
+		"set": "2:0"
+	},
+	{
 		"team_1": "MU-B",
 		"team_2": "MU-A",
-		"running_score": "-:-",
-		"single_score":"-:-",
-		"double_score":"-:-",
-		"tie_breaker_score":"-:-",
+		"running_score": "6:8",
+		"single_score":"8:2",
+		"double_score":"8:1",
+		"tie_breaker_score":"6:8",
 		"set": "2:1"
 	},
 	{
