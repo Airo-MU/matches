@@ -1,12 +1,21 @@
 [
 	{
 		"bat_team": "CBIT",
+		"bowl_team": "MU-A",
+		"t1_score": "130/3",
+		"t2_score": "-",
+		"running_score": "130/3",
+		"overs": "12",
+		"winner": "TBD"
+	}
+	{
+		"bat_team": "CBIT",
 		"bowl_team": "MU-B",
 		"t1_score": "233/2",
-		"t2_score": "-",
-		"running_score": "233/2",
+		"t2_score": "70/10",
+		"running_score": "70/10",
 		"overs": "15",
-		"winner": "TBD"
+		"winner": "CBIT"
 	},
 	{
 		"bat_team": "MU-A",
