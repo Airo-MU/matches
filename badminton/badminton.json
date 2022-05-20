@@ -1,5 +1,61 @@
 [
 	{
+		"team_1": "MU-A(men's singles)",
+		"team_2": "IARE(men's singles)",
+		"running_score": "21:8, 21:15"
+	},
+	{
+		"team_1": "MU-A(men's doubles)",
+		"team_2": "IARE(men's doubles)",
+		"running_score": "21:6, 21:9"
+	},
+	{
+		"team_1": "MU-B(men's singles)",
+		"team_2": "MLRIT(men's singles)",
+		"running_score": "15:21, 9:21"
+	},
+	{
+		"team_1": "MU-B(men's doubles)",
+		"team_2": "MLRIT(men's doubles)",
+		"running_score": "5:21,13:21"
+	},
+	{
+		"team_1": "MU-C(men's singles)",
+		"team_2": "MLRIT(men's singles)",
+		"running_score": "17:21, 9:21"
+	},
+	{
+		"team_1": "MU-C(men's doubles)",
+		"team_2": "MLRIT(men's doubles)",
+		"running_score": "6:21, 9:21"
+	},
+	{
+		"team_1": "IARE-C(men's doubles)",
+		"team_2": "MLRIT(men's doubles)",
+		"running_score": "4:21,14:21"
+	},
+	{
+		"team_1": "IARE-C(men's singles)",
+		"team_2": "MLRIT(men's singles)",
+		"running_score": "21:19, 21:15"
+	},
+	{
+		"team_1": "IARE-C(men's singles 2)",
+		"team_2": "MLRIT(men's singles 2)",
+		"running_score": "10:21, 6:21"
+	},
+	{
+		"team_1": "IARE-A(men's singles)",
+		"team_2": "GITAM(men's singles)",
+		"running_score": "14:21, 16:21"
+	},
+	{
+		"team_1": "IARE-A(men's doubles)",
+		"team_2": "GITAM(men's doubles)",
+		"running_score": "10:21, 13:21"
+	},
+	
+	{
 		"team_1": "IARE(men's singles)",
 		"team_2": "IIIT(men's singles)",
 		"running_score": "12:21, 8:21"
@@ -8,6 +64,16 @@
 		"team_1": "IARE(men's doubles)",
 		"team_2": "IIIT(men's doubles)",
 		"running_score": "19:21,15:21"
+	},
+	 {
+		"team_1": "MLRIT(women's singles)",
+		"team_2": "VNR(women's singles)",
+		"running_score": "21:11, 21:17"
+	},
+	 {
+		"team_1": "MLRIT(women's doubles)",
+		"team_2": "VNR(women's doubles)",
+		"running_score": "19:21, 21:15, 21:15"
 	},
         {
 		"team_1": "IIIT(men's singles)",
