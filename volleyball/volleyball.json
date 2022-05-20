@@ -1,4 +1,31 @@
 [
+        {
+		"team_1": "SNIST",
+		"team_2": "MLRIT",
+		"running_score": "15:13",
+		"single_score":"15:13",
+		"double_score":"-:-",
+		"tie_breaker_score":"-:-",
+		"set": "1:0"
+	},
+        {
+		"team_1": "MU",
+		"team_2": "CMRIT",
+		"running_score": "15:6",
+		"single_score":"16:6",
+		"double_score":"15:6",
+		"tie_breaker_score":"-:-",
+		"set": "2:0"
+	},
+        {
+		"team_1": "VBIT",
+		"team_2": "MLRIT",
+		"running_score": "15:13",
+		"single_score":"21:19",
+		"double_score":"15:13",
+		"tie_breaker_score":"-:-",
+		"set": "2:0"
+	},
 	{
 		"team_1": "VJIT",
 		"team_2": "MLRIT",
