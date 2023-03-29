@@ -1,11 +1,11 @@
 [
 	{
-		"bat_team": "CBIT",
-		"bowl_team": "MU-A",
-		"t1_score": "12#/7",
-		"t2_score": "15#/8",
+		"bat_team": "MRIET",
+		"bowl_team": "GRIET",
+		"t1_score": "12#",
+		"t2_score": "15#",
 		"running_score": "15#/8",
-		"overs": "15",
+		"overs": "-",
 		"winner": "CBIT"
 	},
 	{
