@@ -1,200 +1,164 @@
 [
 	{
-		"bat_team": "SNIST XI",
-		"bowl_team": "VNR VJIET",
-		"t1_score": "150/5",
-		"t2_score": "166/6",
-		"running_score": "150/5",
+		"bat_team": "WOXEN A23",
+		"bowl_team": "MAHINDRA UNIVERSITY",
+		"t1_score": "149/7",
+		"t2_score": "151/4",
+		"running_score": "-",
 		"overs": "-",
-		"winner": "#"
+		"winner": "MAHINDRA UNIVERSITY"
 	},
 	{
-		"bat_team": "GRIET",
-		"bowl_team": "MRIET XI",
-		"t1_score": "147/2",
-		"t2_score": "141/10",
-		"running_score": "146/10",
-		"overs": "12.1",
-		"winner": "GRIET"
+		"bat_team": "VNR VJIET 2022",
+		"bowl_team": "GITAM A23",
+		"t1_score": "187/4",
+		"t2_score": "131/9",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "VNR VJIET 2022"
 	},
 	{
-		"bat_team": "MU-A",
-		"bowl_team": "KPRIT-A",
-		"t1_score": "9#/5",
-		"t2_score": "8#/10",
-		"running_score": "9#/5",
-		"overs": "15",
-		"winner": "MU-A"
+		"bat_team": "TEAM MAH1NDRA UNI",
+		"bowl_team": "AVNIET-11",
+		"t1_score": "179/8",
+		"t2_score": "149/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "TEAM MAH1NDRA UNI"
 	},
 	{
-		"bat_team": "MU-B",
-		"bowl_team": "KPRIT-A",
-		"t1_score": "11#/8",
-		"t2_score": "12#/3",
-		"running_score": "12#/3",
-		"overs": "15",
-		"winner": "KPRIT-A"
-	},
-	{
-		"bat_team": "CBIT",
-		"bowl_team": "MLRIT",
-		"t1_score": "13#/8",
-		"t2_score": "10#/10",
-		"running_score": "10#/10",
-		"overs": "15",
-		"winner": "MLRIT"
+		"bat_team": "ANURAG UNIVERSITY, HYDERABAD",
+		"bowl_team": "CBIT",
+		"t1_score": "135/9",
+		"t2_score": "133/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "ANURAG UNIVERSITY, HYDERABAD"
 	},
 	{
 		"bat_team": "VJIT",
-		"bowl_team": "MU-A",
-		"t1_score": "12#/10",
-		"t2_score": "12#/7",
-		"running_score": "12#/7",
-		"overs": "15",
-		"winner": "MU-A"
-	},
-	{
-		"bat_team": "MLRIT",
-		"bowl_team": "Shreyas",
-		"t1_score": "16#/3",
-		"t2_score": "10#/9",
-		"running_score": "10#/9",
-		"overs": "15",
-		"winner": "MLRIT"
-	},
-	{
-		"bat_team": "KPRIT-B",
-		"bowl_team": "MU-B",
-		"t1_score": "9#/10",
-		"t2_score": "9#/2",
-		"running_score": "9#/2",
-		"overs": "15",
-		"winner": "MU-B"
-	},
-	{
-		"bat_team": "CVR",
-		"bowl_team": "MLRIT",
-		"t1_score": "15#/6",
-		"t2_score": "15#/3",
-		"running_score": "15#/3",
-		"overs": "15",
-		"winner": "MLRIT"
-	},
-	{
-		"bat_team": "JBREC",
-		"bowl_team": "MU-A",
-		"t1_score": "15#/9",
-		"t2_score": "15#/2",
-		"running_score": "15#/2",
-		"overs": "4",
-		"winner": "MU-A"
-	},
-	{
-		"bat_team": "VBIT",
-		"bowl_team": "VJIT",
-		"t1_score": "10#/7",
-		"t2_score": "11#/7",
-		"running_score": "11#/7",
-		"overs": "8",
+		"bowl_team": "AVNIET-11",
+		"t1_score": "198/8",
+		"t2_score": "154/10",
+		"running_score": "-",
+		"overs": "-",
 		"winner": "VJIT"
 	},
 	{
-		"bat_team": "ICFAI",
-		"bowl_team": "Vignan",
-		"t1_score": "4#/4",
-		"t2_score": "-",
-		"running_score": "4#/4",
-		"overs": "6",
-		"winner": "TBD"
-	},
-	{
-		"bat_team": "CMRTC",
-		"bowl_team": "IARE",
-		"t1_score": "15#/10",
-		"t2_score": "11#/7",
-		"running_score": "11#/7",
-		"overs": "15",
-		"winner": "CMRTC"
-	},
-	{
-		"bat_team": "KPRIT-A",
-		"bowl_team": "ICFAI",
-		"t1_score": "13#/9",
-		"t2_score": "9#/10",
-		"running_score": "9#/10",
-		"overs": "16",
-		"winner": "KPRIT-A"
-	},
-	{
 		"bat_team": "CVR",
-		"bowl_team": "Shreyas",
-		"t1_score": "20#/7",
-		"t2_score": "8#/10",
-		"running_score": "8#/10",
-		"overs": "16",
+		"bowl_team": "MALLAREDDY UNIVERSITY A23",
+		"t1_score": "147/10",
+		"t2_score": "133/8",
+		"running_score": "-",
+		"overs": "-",
 		"winner": "CVR"
 	},
 	{
-		"bat_team": "CMRTC",
-		"bowl_team": "CBIT",
-		"t1_score": "12#/10",
-		"t2_score": "12#/3",
-		"running_score": "12#/3",
-		"overs": "16",
-		"winner": "CBIT"
-	},
-	{
-		"bat_team": "AVN",
-		"bowl_team": "MU-A",
-		"t1_score": "12#/8",
-		"t2_score": "12#/7",
-		"running_score": "12#/7",
-		"overs": "16",
-		"winner": "MU-A"
-	},
-	{
-		"bat_team": "GRIET",
-		"bowl_team": "VJIT",
-		"t1_score": "10#/7",
-		"t2_score": "10#/8",
-		"running_score": "10#/8",
-		"overs": "16",
-		"winner": "VJIT"
-	},
-	{
-		"bat_team": "NGIT",
-		"bowl_team": "KPRIT-B",
-		"t1_score": "13#/10",
-		"t2_score": "7#/10",
-		"running_score": "7#/10",
-		"overs": "16",
-		"winner": "NGIT"
-	},
-	{
-		"bat_team": "KPRIT-A",
-		"bowl_team": "Vignan",
-		"t1_score": "18#/8",
-		"t2_score": "14#/7",
-		"running_score": "14#/7",
-		"overs": "16",
-		"winner": "KPRIT-A"
-	},
-	{
-		"bat_team": "MU-B",
+		"bat_team": "MVSR",
 		"bowl_team": "NGIT",
-		"t1_score": "9#/9",
-		"t2_score": "9#/8",
-		"running_score": "9#/8",
-		"overs": "16",
-		"winner": "MU-B"
+		"t1_score": "-",
+		"t2_score": "-",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "MVSR"
 	},
 	{
-		"bat_team": "IARE-A",
-		"bowl_team": "CBIT",
-		"t1_score": "13#/8",
-		"t2_score": "17#/7",
-		"running_score": "17#/7",
-		"overs": "16",
+		"bat_team": "GITAM A23",
+		"bowl_team": "SNIST XI 2022",
+		"t1_score": "135/9",
+		"t2_score": "138/3",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "SNIST XI 2022"
+	},
+	{
+		"bat_team": "MAHINDRA UNIVERSITY",
+		"bowl_team": "NGIT",
+		"t1_score": "130/10",
+		"t2_score": "125/9",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "MAHINDRA UNIVERSITY"
+	},
+	{
+		"bat_team": "CVR",
+		"bowl_team": "TEAM MREC",
+		"t1_score": "154/9",
+		"t2_score": "158/2",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "TEAM MREC"
+	},
+	{
+		"bat_team": "IBS A23",
+		"bowl_team": "MRCET",
+		"t1_score": "180/9",
+		"t2_score": "175/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "IBS A23"
+	},
+	{
+		"bat_team": "CBIT",
+		"bowl_team": "CMRCET 2K23",
+		"t1_score": "153/1",
+		"t2_score": "108/10",
+		"running_score": "-",
+		"overs": "-",
 		"winner": "CBIT"
-	}
+	},
+	{
+		"bat_team": "MVSR",
+		"bowl_team": "WOXEN A23",
+		"t1_score": "242/4",
+		"t2_score": "96/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "MVSR"
+	},
+	{
+		"bat_team": "BITS HYDERABAD 2K23",
+		"bowl_team": "MRCET(2021)",
+		"t1_score": "156/8",
+		"t2_score": "66/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "BITS HYDERABAD 2K23"
+	},
+	{
+		"bat_team": "TEAM MREC",
+		"bowl_team": "MALLAREDDY UNIVERSITY A23",
+		"t1_score": "145/10",
+		"t2_score": "146/4",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "MALLAREDDY UNIVERSITY A23"
+	},
+	{
+		"bat_team": "VNR VJIET 2022",
+		"bowl_team": "SNIST XI 2022",
+		"t1_score": "166/6",
+		"t2_score": "156/6",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "VNR VJIET 2022"
+	},
+	{
+		"bat_team": "MRIET XI",
+		"bowl_team": "GRIET",
+		"t1_score": "141/10",
+		"t2_score": "147/2",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "GRIET"
+	},
+	{
+		"bat_team": "CMRCET 2K23",
+		"bowl_team": "ANURAG UNIVERSITY, HYDERABAD",
+		"t1_score": "158/10",
+		"t2_score": "129/10",
+		"running_score": "-",
+		"overs": "-",
+		"winner": "CMRCET 2K23"
+	},
 ]
