@@ -24,16 +24,16 @@
 		"t2_score": "149/10",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "TEAM MAH1NDRA UNI"
+		"winner": "MAH1NDRA UNI"
 	},
 	{
-		"bat_team": "ANURAG UNIVERSITY, HYDERABAD",
+		"bat_team": "ANURAG UNI",
 		"bowl_team": "CBIT",
 		"t1_score": "135/9",
 		"t2_score": "133/10",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "ANURAG UNIVERSITY, HYDERABAD"
+		"winner": "ANURAG UNI"
 	},
 	{
 		"bat_team": "VJIT",
@@ -46,7 +46,7 @@
 	},
 	{
 		"bat_team": "CVR",
-		"bowl_team": "MALLAREDDY UNIVERSITY A23",
+		"bowl_team": "MALLAREDDY UNI A23",
 		"t1_score": "147/10",
 		"t2_score": "133/8",
 		"running_score": "-",
@@ -64,7 +64,7 @@
 	},
 	{
 		"bat_team": "GITAM A23",
-		"bowl_team": "SNIST XI 2022",
+		"bowl_team": "SNIST XI",
 		"t1_score": "135/9",
 		"t2_score": "138/3",
 		"running_score": "-",
@@ -72,22 +72,22 @@
 		"winner": "SNIST XI 2022"
 	},
 	{
-		"bat_team": "MAHINDRA UNIVERSITY",
+		"bat_team": "MAHINDRA UNI",
 		"bowl_team": "NGIT",
 		"t1_score": "130/10",
 		"t2_score": "125/9",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "MAHINDRA UNIVERSITY"
+		"winner": "MAHINDRA UNI"
 	},
 	{
 		"bat_team": "CVR",
-		"bowl_team": "TEAM MREC",
+		"bowl_team": "MREC",
 		"t1_score": "154/9",
 		"t2_score": "158/2",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "TEAM MREC"
+		"winner": "MREC"
 	},
 	{
 		"bat_team": "IBS A23",
@@ -117,31 +117,31 @@
 		"winner": "MVSR"
 	},
 	{
-		"bat_team": "BITS HYDERABAD 2K23",
+		"bat_team": "BITS HYD",
 		"bowl_team": "MRCET(2021)",
 		"t1_score": "156/8",
 		"t2_score": "66/10",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "BITS HYDERABAD 2K23"
+		"winner": "BITS HYD"
 	},
 	{
 		"bat_team": "TEAM MREC",
-		"bowl_team": "MALLAREDDY UNIVERSITY A23",
+		"bowl_team": "MALLAREDDY UNI A23",
 		"t1_score": "145/10",
 		"t2_score": "146/4",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "MALLAREDDY UNIVERSITY A23"
+		"winner": "MALLAREDDY UNI A23"
 	},
 	{
-		"bat_team": "VNR VJIET 2022",
-		"bowl_team": "SNIST XI 2022",
+		"bat_team": "VNR VJIEJ",
+		"bowl_team": "SNIST XI",
 		"t1_score": "166/6",
 		"t2_score": "156/6",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "VNR VJIET 2022"
+		"winner": "VNR VJIET"
 	},
 	{
 		"bat_team": "MRIET XI",
@@ -153,12 +153,12 @@
 		"winner": "GRIET"
 	},
 	{
-		"bat_team": "CMRCET 2K23",
-		"bowl_team": "ANURAG UNIVERSITY, HYDERABAD",
+		"bat_team": "CMRCET",
+		"bowl_team": "ANURAG UNI",
 		"t1_score": "158/10",
 		"t2_score": "129/10",
 		"running_score": "-",
 		"overs": "-",
-		"winner": "CMRCET 2K23"
+		"winner": "CMRCET"
 	}
 ]
