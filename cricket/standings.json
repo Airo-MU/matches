@@ -2,109 +2,126 @@
 	{
 		"Group A": {
 			"0": {
-				"Team": "SNIST XI",
-				"NRR": "1.5",
-				"Points": "5"
+				"Team": "MALLAREDDY UNIVERSITY A23",
+				"NRR": "0.787",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "GRIET",
-				"NRR": "1.6",
+				"Team": "TEAM MREC",
+				"NRR": "-0.080",
 				"Points": "2"
 			},
 			"2": {
-				"Team": "AVN",
-				"NRR": "-1.055",
-				"Points": "0"
+				"Team": "CVR",
+				"NRR": "-0.750",
+				"Points": "2"
 			}
 			
 		},
 		"Group B": {
 			"0": {
-				"Team": "NGIT",
-				"NRR": "2.031",
-				"Points": "2"
-			},
-			"1": {
-				"Team": "MU-B",
-				"NRR": "2.195",
+				"Team": "VNR VJIET 2022",
+				"NRR": "1.737",
 				"Points": "4"
 			},
+			"1": {
+				"Team": "SNIST XI 2022",
+				"NRR": "0.284",
+				"Points": "2"
+			},
 			"2": {
-				"Team": "KPRIT-B",
-				"NRR": "-4.678",
+				"Team": "GITAM A23",
+				"NRR": "-2.217",
 				"Points": "0"
 			}
 		},
 		"Group C": {
 			"0": {
-				"Team": "KPRIT-A",
-				"NRR": "2.406",
-				"Points": "4"
+				"Team": "BITS HYDERABAD 2K23",
+				"NRR": "4.500",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "VIGNAN",
-				"NRR": "-2.188",
-				"Points": "0"
+				"Team": "IBS A23",
+				"NRR": "0.481",
+				"Points": "2"
 			},
 			"2": {
-				"Team": "ICFAI",
-				"NRR": "-2.625",
+				"Team": "MRCET(2021)",
+				"NRR": "-2.481",
 				"Points": "0"
 			}
 		},
 		"Group D": {
 			"0": {
-				"Team": "VJIT-A",
-				"NRR": "0.359",
-				"Points": "4"
+				"Team": "CBIT",
+				"NRR": "1.075",
+				"Points": "2"
 			},
 			"1": {
-				"Team": "VBIT",
-				"NRR": "-0.671",
-				"Points": "0"
+				"Team": "CMRCET 2K23",
+				"NRR": "-0.400",
+				"Points": "2"
 			},
 			"2": {
-				"Team": "GRIET",
-				"NRR": "-1.215",
-				"Points": "0"
-			},
-			"3": {
-				"Team": "MU-C",
-				"NRR": "0.964",
+				"Team": "Anurag University, Hyderabad",
+				"NRR": "-0.675",
 				"Points": "2"
 			}
 		},
 		"Group E": {
 			"0": {
-				"Team": "CVR",
-				"NRR": "2.786",
+				"Team": "GRIET",
+				"NRR": "5.032",
 				"Points": "2"
 			},
 			"1": {
-				"Team": "SREYAS",
-				"NRR": "-5.469",
+				"Team": "KLU A23",
+				"NRR": "0",
 				"Points": "0"
 			},
 			"2":{
-				"Team": "MLRIT",
-				"NRR": "2.982",
-				"Points": "4"
+				"Team": "MRIET XI",
+				"NRR": "-5.032",
+				"Points": "0"
 			}
 		},
 		"Group F": {
 			"0": {
-				"Team": "CBIT",
-				"NRR": "2.317",
-				"Points": "4"
+				"Team": "VJIT",
+				"NRR": "2.200",
+				"Points": "2"
 			},	
 			"1": {
-				"Team": "CMCRTC",
-				"NRR": "0.515",
+				"Team": "TEAM MAHINDRA UNI",
+				"NRR": "1.500",
 				"Points": "2"
 			},
 			"2": {
-				"Team": "IARE",
-				"NRR": "-2.742",
+				"Team": "AVNIET-11",
+				"NRR": "-1.850",
+				"Points": "0"
+			}
+		},
+		"Group G": {
+			"0": {
+				"Team": "MVSR",
+				"NRR": "7.300",
+				"Points": "4"
+			},	
+			"1": {
+				"Team": "MAHINDRA UNIVERSITY",
+				"NRR": "1.256",
+				"Points": "4"
+			},
+			"2": {
+				"Team": "WOXEN A23",
+				"NRR": "-5.212",
+				"Points": "2"
+			},
+			"3": {
+				"Team": "NGIT",
+				"NRR": "-4.417",
 				"Points": "0"
 			}
 		}
