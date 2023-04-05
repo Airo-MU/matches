@@ -1,140 +1,97 @@
 [
-	{
-		"team_1": "MU-A(men's singles)",
-		"team_2": "IARE(men's singles)",
-		"running_score": "21:8, 21:15"
+    {
+		"team_1": "MU (GIRLS)",
+		"team_2": "MLRIT (GIRLS)",
+		"running_score": "2-1"
 	},
-	{
-		"team_1": "MU-A(men's doubles)",
-		"team_2": "IARE(men's doubles)",
-		"running_score": "21:6, 21:9"
+    {
+		"team_1": "MU-A (Quarter Finals)",
+		"team_2": "MRIET (Quarter Finals)",
+		"running_score": "3-0"
 	},
-	{
-		"team_1": "MU-B(men's singles)",
-		"team_2": "MLRIT(men's singles)",
-		"running_score": "15:21, 9:21"
+    {
+		"team_1": "MLRIT",
+		"team_2": "SYMBIOSIS",
+		"running_score": "3-1"
 	},
-	{
-		"team_1": "MU-B(men's doubles)",
-		"team_2": "MLRIT(men's doubles)",
-		"running_score": "5:21,13:21"
+    {
+		"team_1": "MU (GIRLS)",
+		"team_2": "GNITS (GIRLS)",
+		"running_score": "2-0"
 	},
-	{
-		"team_1": "MU-C(men's singles)",
-		"team_2": "MLRIT(men's singles)",
-		"running_score": "17:21, 9:21"
+    {
+		"team_1": "Anurag Uni",
+		"team_2": "MU-C",
+		"running_score": "3-0"
 	},
-	{
-		"team_1": "MU-C(men's doubles)",
-		"team_2": "MLRIT(men's doubles)",
-		"running_score": "6:21, 9:21"
+    {
+		"team_1": "MU-C",
+		"team_2": "Symbiosis",
+		"running_score": "3-0"
 	},
-	{
-		"team_1": "IARE-C(men's doubles)",
-		"team_2": "MLRIT(men's doubles)",
-		"running_score": "4:21,14:21"
+    {
+		"team_1": "ICFAI",
+		"team_2": "Symbiosis",
+		"running_score": "3-0"
 	},
-	{
-		"team_1": "IARE-C(men's singles)",
-		"team_2": "MLRIT(men's singles)",
-		"running_score": "21:19, 21:15"
+    {
+		"team_1": "MLRIT",
+		"team_2": "ICFAI",
+		"running_score": "2-1"
 	},
-	{
-		"team_1": "IARE-C(men's singles 2)",
-		"team_2": "MLRIT(men's singles 2)",
-		"running_score": "10:21, 6:21"
+    {
+		"team_1": "MU-B",
+		"team_2": "MRIET",
+		"running_score": "3-1"
 	},
-	{
-		"team_1": "IARE-A(men's singles)",
-		"team_2": "GITAM(men's singles)",
-		"running_score": "14:21, 16:21"
+    {
+		"team_1": "ICFAI",
+		"team_2": "CMRTC",
+		"running_score": "3-1"
 	},
-	{
-		"team_1": "IARE-A(men's doubles)",
-		"team_2": "GITAM(men's doubles)",
-		"running_score": "10:21, 13:21"
+    {
+		"team_1": "CVR",
+		"team_2": "JNTU",
+		"running_score": "3-1"
 	},
-	
-	{
-		"team_1": "IARE(men's singles)",
-		"team_2": "IIIT(men's singles)",
-		"running_score": "12:21, 8:21"
+    {
+		"team_1": "Symbiosis",
+		"team_2": "CMR",
+		"running_score": "3-2"
 	},
-        {
-		"team_1": "IARE(men's doubles)",
-		"team_2": "IIIT(men's doubles)",
-		"running_score": "19:21,15:21"
+    {
+		"team_1": "MU-A",
+		"team_2": "VJIT",
+		"running_score": "3-0"
 	},
-	 {
-		"team_1": "MLRIT(women's singles)",
-		"team_2": "VNR(women's singles)",
-		"running_score": "21:11, 21:17"
+    {
+		"team_1": "MRIET",
+		"team_2": "ICFAI business",
+		"running_score": "3-0"
 	},
-	 {
-		"team_1": "MLRIT(women's doubles)",
-		"team_2": "VNR(women's doubles)",
-		"running_score": "19:21, 21:15, 21:15"
+    {
+		"team_1": "MU-A",
+		"team_2": "JNTU CEH",
+		"running_score": "3-0"
 	},
-        {
-		"team_1": "IIIT(men's singles)",
-		"team_2": "GITAM(men's singles)",
-		"running_score": "21:12, 21:18"
+    {
+		"team_1": "ICFAI",
+		"team_2": "MLRIT",
+		"running_score": "3-2"
 	},
-        {
-		"team_1": "IIIT(men's singles 2)",
-		"team_2": "GITAM(men's singles 2)",
-		"running_score": "14:21, 16:21"
+    {
+		"team_1": "MU-B",
+		"team_2": "ICFAI business",
+		"running_score": "3-0"
 	},
-        {
-		"team_1": "MU(women's singles)",
-		"team_2": "SVIT(women's singles)",
-		"running_score": "21:1, 21:3"
+    {
+		"team_1": "CVR",
+		"team_2": "VJIET",
+		"running_score": "3-2"
 	},
-        {
-		"team_1": "MU(women's doubles)",
-		"team_2": "SVIT(women's doubles)",
-		"running_score": "21:14, 21:9"
-	},
-        {
-		"team_1": "IIIT(men's doubles)",
-		"team_2": "GITAM(men's doubles)",
-		"running_score": "16:21, 21:19, 17:21"
-	},
-
-        {
-		"team_1": "MU-C(men's singles)",
-		"team_2": "IARE-C(men's singles)",
-		"running_score": "20:22, 15:21"
-	},
-        {
-		"team_1": "MU-C(men's doubles)",
-		"team_2": "IARE-C(men's doubles)",
-		"running_score": "22:24, 21:19, 21:13"
-	},
-        {
-		"team_1": "MU-C(men's singles 2)",
-		"team_2": "IARE-C(men's singles 2)",
-		"running_score": "21:18, 21:13"
-	},
-        {
-		"team_1": "MU-B(men's singles)",
-		"team_2": "GRIET(men's singles)",
-		"running_score": "21:10, 21:11"
-	},
-        {
-		"team_1": "MU-B(men's doubles)",
-		"team_2": "GRIET(men's doubles)",
-		"running_score": "21:12,21:11"
-	},
-
-        {
-		"team_1": "MU-A(men's singles)",
-		"team_2": "AU(men's singles)",
-		"running_score": "21:9, 21:7"
-	},
-	{
-		"team_1": "MU-A(men's doubles)",
-		"team_2": "AU(men's doubles)",
-		"running_score": "21:9,21:12"
+    {
+		"team_1": "Anurag Uni",
+		"team_2": "Symbiosis",
+		"running_score": "3-0"
 	}
 ]
